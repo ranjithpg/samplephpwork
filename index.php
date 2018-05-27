@@ -5,7 +5,7 @@
 <h1>Developing AWS PHP>
 
 <?php
-echo "Version: v1.1";
+echo "Version: v10.1";
 ?>
 
 </body>
