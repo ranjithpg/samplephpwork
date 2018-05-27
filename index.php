@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing PHP Application</h1>
+<h1>Developing AWS PHP>
 
 <?php
 echo "Version: v1.1";
