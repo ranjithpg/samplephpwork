@@ -5,7 +5,7 @@
 <h1>Developing Project>
 
 <?php
-echo "Latest version";
+echo " version";
 ?>
 
 </body>
