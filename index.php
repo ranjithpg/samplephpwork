@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Developing AWS PHP>
+<h1>Developing Project>
 
 <?php
-echo "Version: v10.1";
+echo "Version New";
 ?>
 
 </body>
